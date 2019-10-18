@@ -1,0 +1,11 @@
+https://planon.atlassian.net/wiki/spaces/CALIBER/pages/70912129/Exporting+MS+Access+data+to+Confluence
+
+https://developer.atlassian.com/cloud/confluence/rest/#api-content-post
+
+https://jsonformatter.curiousconcept.com/
+
+https://developer.atlassian.com/server/confluence/confluence-rest-api-examples/#ConfluenceRESTAPIExamples-Createanewpage
+
+https://planon.atlassian.net/wiki/spaces/TTEC/pages/49678243/What+is+Hamsa
+
+https://www.cleancss.com/html-beautify/
